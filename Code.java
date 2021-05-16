@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.util.Queue;
-import java.util.LinkedList;
 import java.io.File;
 import java.io.FileNotFoundException;
 
